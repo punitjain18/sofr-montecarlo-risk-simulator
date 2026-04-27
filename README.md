@@ -2,7 +2,7 @@
 
 This Excel VBA Monte Carlo Trade Simulator is a helpful tool that assists you in evaluating the potential outcomes of your trading strategies using Monte Carlo Simulation techniques. It allows you to simulate multiple trading scenarios and analyze their performance to gain a better understanding of the risks and returns of your strategies.
 
-![Screenshot](/screenshots/screenshot.PNG)
+![Screenshot](/screenshot.PNG)
 
 ## Features
 
