@@ -44,7 +44,7 @@ This gives you a **probability distribution of outcomes** rather than a single h
 This tool was adapted with a STIR futures context in mind. Specific use cases:
 
 - **Position sizing validation** — test whether your current lot sizing survives volatile FOMC meeting windows across randomized trade sequences
-- **Drawdown expectation setting** — before scaling volume (e.g. from 15K to 36K lots/month), simulate whether your account can absorb the increased sequence risk
+- **Drawdown expectation setting** — before scaling volume (e.g. from 5K to 25K lots/month), simulate whether your account can absorb the increased sequence risk
 - **Strategy robustness check** — a strategy that looks profitable historically may have high ruin probability under adverse sequencing. This surfaces that risk before it costs real capital
 - **Basis trade analysis** — paste in PnL from SOFR vs. Fed Funds spread trades separately to compare risk profiles across instruments
 
