@@ -69,7 +69,7 @@ sofr-montecarlo-risk-simulator/
 ├── TestModule_clsEquityCurve.bas      ← Unit tests for equity curve tracking
 ├── TestModule_clsResult.bas           ← Unit tests for result computation
 │
-└── screenshots/                       ← Dashboard preview images
+└── screenshot                         ← Dashboard preview image
 ```
 
 > The `.cls` and `.bas` files are the VBA source code exported for GitHub version control. They are already embedded inside the `.xlsm`. **You only need to download the `.xlsm` to use the tool.**
@@ -188,12 +188,6 @@ To use the Excel VBA Monte Carlo Trade Simulator, simply download and open the E
 3. On the "Control" sheet, set the required parameters for the simulation, such as lot size, number of trades per year, total number of runs, starting equity, and margin.
 3. Press the button "Run" on the same sheet to run the Monte Carlo simulation and obtain the simulation results.
 4. Analyze the results to evaluate the performance of your trading strategy.
-
-## Contributing
-
-Contributions are welcome, please feel free to open an issue or submit a pull request.
-
-The module 'Test_Module_All" contains a subroutine called "RunAllTests" which can be used to test for any breaking changes after an amendment.
 
 ## Acknowledgements
 
